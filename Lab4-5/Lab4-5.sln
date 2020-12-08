@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpf_less1", "wpf_less1\wpf_less1.csproj", "{7B7363A6-7343-408B-81E7-F88364168B7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevDist", "LevDist\LevDist.csproj", "{ADA588FF-158D-4B70-8A28-AC18CDE8D3F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B7363A6-7343-408B-81E7-F88364168B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7363A6-7343-408B-81E7-F88364168B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7363A6-7343-408B-81E7-F88364168B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7363A6-7343-408B-81E7-F88364168B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA588FF-158D-4B70-8A28-AC18CDE8D3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA588FF-158D-4B70-8A28-AC18CDE8D3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA588FF-158D-4B70-8A28-AC18CDE8D3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA588FF-158D-4B70-8A28-AC18CDE8D3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {124A194B-6F55-4294-82A3-B94E333DB00D}
+	EndGlobalSection
+EndGlobal

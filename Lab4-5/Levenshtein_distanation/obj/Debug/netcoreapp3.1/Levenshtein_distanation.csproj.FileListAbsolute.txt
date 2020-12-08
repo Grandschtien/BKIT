@@ -1,0 +1,9 @@
+C:\Users\Егор\source\repos\wpf_less1\Levenshtein_distanation\bin\Debug\netcoreapp3.1\Levenshtein_distanation.deps.json
+C:\Users\Егор\source\repos\wpf_less1\Levenshtein_distanation\bin\Debug\netcoreapp3.1\Levenshtein_distanation.dll
+C:\Users\Егор\source\repos\wpf_less1\Levenshtein_distanation\bin\Debug\netcoreapp3.1\Levenshtein_distanation.pdb
+C:\Users\Егор\source\repos\wpf_less1\Levenshtein_distanation\obj\Debug\netcoreapp3.1\Levenshtein_distanation.csprojAssemblyReference.cache
+C:\Users\Егор\source\repos\wpf_less1\Levenshtein_distanation\obj\Debug\netcoreapp3.1\Levenshtein_distanation.AssemblyInfoInputs.cache
+C:\Users\Егор\source\repos\wpf_less1\Levenshtein_distanation\obj\Debug\netcoreapp3.1\Levenshtein_distanation.AssemblyInfo.cs
+C:\Users\Егор\source\repos\wpf_less1\Levenshtein_distanation\obj\Debug\netcoreapp3.1\Levenshtein_distanation.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\wpf_less1\Levenshtein_distanation\obj\Debug\netcoreapp3.1\Levenshtein_distanation.dll
+C:\Users\Егор\source\repos\wpf_less1\Levenshtein_distanation\obj\Debug\netcoreapp3.1\Levenshtein_distanation.pdb

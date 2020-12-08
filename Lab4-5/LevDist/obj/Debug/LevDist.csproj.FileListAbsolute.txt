@@ -1,0 +1,5 @@
+C:\Users\Егор\source\repos\wpf_less1\LevDist\bin\Debug\LevDist.dll
+C:\Users\Егор\source\repos\wpf_less1\LevDist\bin\Debug\LevDist.pdb
+C:\Users\Егор\source\repos\wpf_less1\LevDist\obj\Debug\LevDist.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\wpf_less1\LevDist\obj\Debug\LevDist.dll
+C:\Users\Егор\source\repos\wpf_less1\LevDist\obj\Debug\LevDist.pdb
